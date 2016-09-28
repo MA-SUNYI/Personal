@@ -36,7 +36,7 @@ ul {margin: 0 0 0 15px; position: relative;}
 li {margin: 0 0 5px 0; font-size: 13px;}
 p {text-align: justify; font-size: 13px;}
 .clear {clear: both;}
-a {color: #444; text-decoration: none;}
+a {color:#507EA1; text-decoration: none; font-weight: bold;}
 a:hover {text-decoration:underline;}
 
 #backgroundImg {
